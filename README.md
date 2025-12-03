@@ -1,5 +1,5 @@
 # Glamm
-This Repository is Archived in favor for newly integrated **Voile Projects**
+This Repository is Archived in favor for newly integrated [**Voile Projects**](https://github.com/curatorian/voile)
 
 You can contact the lead developer for any ideas or collaborations.
 
